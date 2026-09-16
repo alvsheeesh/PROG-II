@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alvs\\source\\repos\\PROG II\\hand-in\\PR1  \u00B7  Ficha de un juego\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2861FAF-A63F-4C38-822C-190F22DC4693}|PR1  \u00B7  Ficha de un juego\\PR1  \u00B7  Ficha de un juego.vcxproj|C:\\Users\\alvs\\source\\repos\\PROG II\\hand-in\\PR1  \u00B7  Ficha de un juego\\PR1  \u00B7  Ficha de un juego\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2861FAF-A63F-4C38-822C-190F22DC4693}|PR1  \u00B7  Ficha de un juego\\PR1  \u00B7  Ficha de un juego.vcxproj|solutionrelative:PR1  \u00B7  Ficha de un juego\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2861FAF-A63F-4C38-822C-190F22DC4693}|PR1  \u00B7  Ficha de un juego\\PR1  \u00B7  Ficha de un juego.vcxproj|C:\\Users\\alvs\\source\\repos\\PROG II\\hand-in\\PR1  \u00B7  Ficha de un juego\\PR1  \u00B7  Ficha de un juego\\juego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2861FAF-A63F-4C38-822C-190F22DC4693}|PR1  \u00B7  Ficha de un juego\\PR1  \u00B7  Ficha de un juego.vcxproj|solutionrelative:PR1  \u00B7  Ficha de un juego\\juego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2861FAF-A63F-4C38-822C-190F22DC4693}|PR1  \u00B7  Ficha de un juego\\PR1  \u00B7  Ficha de un juego.vcxproj|C:\\Users\\alvs\\source\\repos\\PROG II\\hand-in\\PR1  \u00B7  Ficha de un juego\\PR1  \u00B7  FICHA DE UN JUEGO\\JUEGO.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2861FAF-A63F-4C38-822C-190F22DC4693}|PR1  \u00B7  Ficha de un juego\\PR1  \u00B7  Ficha de un juego.vcxproj|solutionrelative:PR1  \u00B7  FICHA DE UN JUEGO\\JUEGO.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\alvs\\source\\repos\\PROG II\\hand-in\\PR1  \u00B7  Ficha de un juego\\PR1  \u00B7  Ficha de un juego\\main.cpp",
+              "RelativeDocumentMoniker": "PR1  \u00B7  Ficha de un juego\\main.cpp",
+              "ToolTip": "C:\\Users\\alvs\\source\\repos\\PROG II\\hand-in\\PR1  \u00B7  Ficha de un juego\\PR1  \u00B7  Ficha de un juego\\main.cpp",
+              "RelativeToolTip": "PR1  \u00B7  Ficha de un juego\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-16T07:37:41.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "juego.h",
+              "DocumentMoniker": "C:\\Users\\alvs\\source\\repos\\PROG II\\hand-in\\PR1  \u00B7  Ficha de un juego\\PR1  \u00B7  Ficha de un juego\\juego.h",
+              "RelativeDocumentMoniker": "PR1  \u00B7  Ficha de un juego\\juego.h",
+              "ToolTip": "C:\\Users\\alvs\\source\\repos\\PROG II\\hand-in\\PR1  \u00B7  Ficha de un juego\\PR1  \u00B7  Ficha de un juego\\juego.h",
+              "RelativeToolTip": "PR1  \u00B7  Ficha de un juego\\juego.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-16T07:37:40.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "juego.cpp",
+              "DocumentMoniker": "C:\\Users\\alvs\\source\\repos\\PROG II\\hand-in\\PR1  \u00B7  Ficha de un juego\\PR1  \u00B7  Ficha de un juego\\juego.cpp",
+              "RelativeDocumentMoniker": "PR1  \u00B7  Ficha de un juego\\juego.cpp",
+              "ToolTip": "C:\\Users\\alvs\\source\\repos\\PROG II\\hand-in\\PR1  \u00B7  Ficha de un juego\\PR1  \u00B7  Ficha de un juego\\juego.cpp",
+              "RelativeToolTip": "PR1  \u00B7  Ficha de un juego\\juego.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-16T07:37:31.409Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
