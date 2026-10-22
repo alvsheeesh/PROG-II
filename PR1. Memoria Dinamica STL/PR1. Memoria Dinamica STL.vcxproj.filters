@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Exercici1Punters.cpp">
+    <ClCompile Include="PR1. Memoria Dinamica STL.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>

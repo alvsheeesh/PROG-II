@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{fced588e-0517-418f-b678-de73c783313f}</ProjectGuid>
-    <RootNamespace>Exercici1Punters</RootNamespace>
+    <ProjectGuid>{efa69f33-e502-4bb8-84f4-c634d1a9032c}</ProjectGuid>
+    <RootNamespace>PR1MemoriaDinamicaSTL</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Exercici1Punters.cpp" />
+    <ClCompile Include="PR1. Memoria Dinamica STL.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
