@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "PR1. Mem.efa69f33\\x64\\Debug\\PR1. Memoria Dinamica STL.obj",
+            "outputs": [
+                "PR1. Mem.efa69f33\\x64\\Debug\\PR1. Memoria Dinamica STL.cpp.obj.dt.module.json",
+                "PR1. Mem.efa69f33\\x64\\Debug\\PR1. Memoria Dinamica STL.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
