@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Exercici1Punters\\x64\\Debug\\Exercici1Punters.obj",
+            "outputs": [
+                "Exercici1Punters\\x64\\Debug\\Exercici1Punters.cpp.obj.dt.module.json",
+                "Exercici1Punters\\x64\\Debug\\Exercici1Punters.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
