@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Actividad_Cohete.vcxproj" Id="1f0bca49-c3d4-448e-bd19-2786032909ae" />
+</Solution>
